@@ -130,6 +130,7 @@ result = moran(values, weights)
 
 ## 📜 Research Interests
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -152,6 +153,7 @@ result = moran(values, weights)
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
