@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I'm Vee
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top">
 
@@ -18,9 +18,9 @@
 - ⚡ ML on **Raspberry Pi 5** with TurboQuant
 
 </td>
-<td width="300" valign="top">
+<td width="380" valign="middle">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0OGdvZnF5ZjJhOGI5a2k3ZXZidHJqYWZ0dG14OGNlMDVjcHFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0OGdvZnF5ZjJhOGI5a2k3ZXZidHJqYWZ0dG14OGNlMDVjcHFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation"/>
 
 </td>
 </tr>
