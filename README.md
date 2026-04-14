@@ -2,50 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a23,50:1a1a4e,100:0f3460&height=220&section=header&text=Vansh%20Singh%20Ruhela&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Epidemiologist%20%C2%B7%20Statistical%20Scientist%20%C2%B7%20Open-Source%20Builder&descSize=16&descAlignY=55&descColor=88ccff" width="100%" alt="Header Banner"/>
 </div>
 
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30px"/>
-  Hi, I'm Vee
-  <img align="right" src="https://komarev.com/ghpvc/?username=ruhelavansh-oss&color=blueviolet" alt="Profile views"/>
-</h1>
+## 👋 Hi, I'm Vee
 
-<div>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="250px" align="right" alt="Owl"/>
-</div>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0OGdvZnF5ZjJhOGI5a2k3ZXZidHJqYWZ0dG14OGNlMDVjcHFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Coding animation"/>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25px" align="center"/> Building tools that make science reproducible and accessible.</div>
+### 🚀 Building tools that make science reproducible and accessible.
 
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Grad Cap" width="25px" align="center"/>
-    <strong>University of Toronto</strong> — Centre on Policing, Autonomic Surveillance & Social Policy (CoPAS), Criminology, DLSPH
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25px" align="center"/>
-    MRP on <strong>environmental health determinants of mental health & substance use</strong> (PHO data)
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25px" align="center"/>
-    Creator of <a href="https://github.com/EpiNodes/esml"><strong>ESML</strong></a> — 5,724 statistical functions, 218 categories, dual Python + R
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25px" align="center"/>
-    Research: <strong>causal inference, DML, IPW/AIPW, spatial analysis, IRT/psychometrics</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="25px" align="center"/>
-    Based in <strong>Toronto, Canada</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="25px" align="center"/>
-    Deploying ML models on <strong>Raspberry Pi 5</strong> with custom quantization (TurboQuant)
-  </li>
-</ul>
+- 🎓 **University of Toronto** — Collaborative Specialization in Addiction Studies (CoPAS) between Dalla Lana School of Public Health (DLSPH) and the Centre for Criminology and Sociolegal Studies (CrimSL), School of Graduate Studies (UTSGS)
+- 🔬 MRP on **environmental health determinants of mental health & substance use** (PHO data)
+- 💻 Creator of [**ESML**](https://github.com/EpiNodes/esml) — 5,724 statistical functions, 218 categories, dual Python + R
+- 🧠 Research: **causal inference, DML, IPW/AIPW, spatial analysis, IRT/psychometrics**
+- 🌎 Based in **Toronto, Canada**
+- ⚡ Deploying ML models on **Raspberry Pi 5** with custom quantization (TurboQuant)
 
-<br/>
+<br clear="right"/>
 
 ---
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25px" align="center"/> Flagship Project: ESML</div>
+## ⭐ Flagship Project: ESML
 
 <div align="center">
 
@@ -63,12 +37,12 @@
 
 **[ESML](https://github.com/EpiNodes/esml)** is a terminal-first scientific computing toolkit for epidemiology & statistics.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18px"/> **5,724** individual function files across **218** categories
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" width="18px"/> Causal inference, spatial stats, psychometrics, signal processing
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="18px"/> **Perseus** — built-in AI agent (Gemma 4, Ollama, zero-cloud)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="18px"/> Post-quantum crypto (ML-KEM, Dilithium, NTRU, lattices)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="18px"/> 41 built-in Canadian public health datasets in SQLite
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="18px"/> **15,212** tests passing, CI green on every push
+- 📊 **5,724** individual function files across **218** categories
+- ⚛️ Causal inference, spatial stats, psychometrics, signal processing
+- 🤖 **Perseus** — built-in AI agent (Gemma 4, Ollama, zero-cloud)
+- 🔒 Post-quantum crypto (ML-KEM, Dilithium, NTRU, lattices)
+- 📦 41 built-in Canadian public health datasets in SQLite
+- 🧪 **15,212** tests passing, CI green on every push
 
 </td>
 <td width="45%">
@@ -98,7 +72,7 @@ result = moran(values, weights)
 
 ---
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25px" align="center"/> Technical Skills</div>
+## 🛠️ Technical Skills
 
 **Languages**
 
@@ -144,13 +118,13 @@ result = moran(values, weights)
 
 ---
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="25px" align="center"/> Research Interests</div>
+## 📜 Research Interests
 
 <table>
 <tr>
 <td width="50%">
 
-### Epidemiology & Public Health
+### 🏥 Epidemiology & Public Health
 - Environmental health determinants of MH/SU
 - Canadian public health datasets (CPADS, CIHI)
 - Correctional health (OTIS, restrictive confinement)
@@ -159,7 +133,7 @@ result = moran(values, weights)
 </td>
 <td width="50%">
 
-### Methods & Theory
+### 📐 Methods & Theory
 - Semiparametric causal inference (DML, TMLE)
 - Doubly robust estimation (AIPW, G-computation)
 - Post-quantum cryptography (lattice-based)
@@ -171,19 +145,19 @@ result = moran(values, weights)
 
 ---
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="25px" align="center"/> Let's Stay Connected</div>
+## 🌐 Let's Stay Connected
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-EpiNodes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EpiNodes)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1750--3592-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1750-3592)
-[![Email](https://img.shields.io/badge/Email-vansh.ruhela@mail.utoronto.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vansh.ruhela@mail.utoronto.ca)
+[![Email](https://img.shields.io/badge/Email-UofT_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vansh.ruhela@mail.utoronto.ca)
 
 </div>
 
 ---
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25px" align="center"/> GitHub Stats</div>
+## 🔥 GitHub Stats
 
 <div align="center">
 
@@ -192,9 +166,19 @@ result = moran(values, weights)
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhelavansh-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a23&title_color=88ccff&text_color=ffffff&langs_count=10" width="40%" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhelavansh-oss&bg_color=0a0a23&color=88ccff&line=ff6600&point=ffffff&area=true&area_color=1a1a4e&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
