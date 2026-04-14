@@ -4,18 +4,27 @@
 
 ## 👋 Hi, I'm Vee
 
+<table>
+<tr>
+<td valign="top">
+
 ### 🚀 Building tools that make science reproducible and accessible.
 
-- 🎓 **University of Toronto** — Collaborative Specialization in Addiction Studies (CoPAS) between Dalla Lana School of Public Health (DLSPH) and the Centre for Criminology and Sociolegal Studies (CrimSL), School of Graduate Studies (UTSGS)
-- 🔬 MRP on **environmental health determinants of mental health & substance use** (PHO data)
-- 💻 Creator of [**ESML**](https://github.com/EpiNodes/esml) — 5,724 statistical functions, 218 categories, dual Python + R
-- 🧠 Research: **causal inference, DML, IPW/AIPW, spatial analysis, IRT/psychometrics**
+- 🎓 **University of Toronto** — CoPAS (Addiction Studies) between DLSPH and Criminology & Sociolegal Studies (CrimSL)
+- 🔬 MRP on **environmental health determinants of MH & substance use** (PHO data)
+- 💻 Creator of [**ESML**](https://github.com/EpiNodes/esml) — 5,724 functions, 218 categories
+- 🧠 **Causal inference, DML, IPW/AIPW, spatial analysis, IRT**
 - 🌎 Based in **Toronto, Canada**
-- ⚡ Deploying ML models on **Raspberry Pi 5** with custom quantization (TurboQuant)
+- ⚡ ML on **Raspberry Pi 5** with TurboQuant
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0OGdvZnF5ZjJhOGI5a2k3ZXZidHJqYWZ0dG14OGNlMDVjcHFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding animation"/>
-</div>
+</td>
+<td width="300" valign="top">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0OGdvZnF5ZjJhOGI5a2k3ZXZidHJqYWZ0dG14OGNlMDVjcHFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,7 +138,7 @@ result = moran(values, weights)
 - Environmental health determinants of MH/SU
 - Canadian public health datasets (CPADS, CIHI)
 - Correctional health (OTIS, restrictive confinement)
-- Substance use epidemiology (eBAC, cannabis policy)
+- Substance epidemiology (eBAC, cannabis policy)
 
 </td>
 <td width="50%" valign="top">
