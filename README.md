@@ -4,8 +4,6 @@
 
 ## 👋 Hi, I'm Vee
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0OGdvZnF5ZjJhOGI5a2k3ZXZidHJqYWZ0dG14OGNlMDVjcHFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Coding animation"/>
-
 ### 🚀 Building tools that make science reproducible and accessible.
 
 - 🎓 **University of Toronto** — Collaborative Specialization in Addiction Studies (CoPAS) between Dalla Lana School of Public Health (DLSPH) and the Centre for Criminology and Sociolegal Studies (CrimSL), School of Graduate Studies (UTSGS)
@@ -15,7 +13,9 @@
 - 🌎 Based in **Toronto, Canada**
 - ⚡ Deploying ML models on **Raspberry Pi 5** with custom quantization (TurboQuant)
 
-<br clear="right"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0OGdvZnF5ZjJhOGI5a2k3ZXZidHJqYWZ0dG14OGNlMDVjcHFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding animation"/>
+</div>
 
 ---
 
@@ -31,10 +31,6 @@
 
 </div>
 
-<table>
-<tr>
-<td width="55%">
-
 **[ESML](https://github.com/EpiNodes/esml)** is a terminal-first scientific computing toolkit for epidemiology & statistics.
 
 - 📊 **5,724** individual function files across **218** categories
@@ -43,9 +39,6 @@
 - 🔒 Post-quantum crypto (ML-KEM, Dilithium, NTRU, lattices)
 - 📦 41 built-in Canadian public health datasets in SQLite
 - 🧪 **15,212** tests passing, CI green on every push
-
-</td>
-<td width="45%">
 
 ```python
 from esml.fn import ate, moran, dnorm, luke
@@ -65,10 +58,6 @@ result = moran(values, weights)
 [![Explore ESML](https://img.shields.io/badge/Explore_ESML-0a0a23?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EpiNodes/esml)
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -120,28 +109,17 @@ result = moran(values, weights)
 
 ## 📜 Research Interests
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🏥 Epidemiology & Public Health
 - Environmental health determinants of MH/SU
 - Canadian public health datasets (CPADS, CIHI)
 - Correctional health (OTIS, restrictive confinement)
 - Substance use epidemiology (eBAC, cannabis policy)
 
-</td>
-<td width="50%">
-
 ### 📐 Methods & Theory
 - Semiparametric causal inference (DML, TMLE)
 - Doubly robust estimation (AIPW, G-computation)
 - Post-quantum cryptography (lattice-based)
 - LLM quantization (TurboQuant, QJL, PolarQuant)
-
-</td>
-</tr>
-</table>
 
 ---
 
