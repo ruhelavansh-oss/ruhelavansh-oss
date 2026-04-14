@@ -157,32 +157,13 @@ result = moran(values, weights)
 
 ---
 
-## 🔥 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruhelavansh-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a23&title_color=88ccff&icon_color=ff6600&text_color=ffffff" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhelavansh-oss&theme=tokyonight&hide_border=true&background=0a0a23&ring=ff6600&fire=ff6600&currStreakLabel=88ccff" width="48%" alt="GitHub Streak"/>
+<img src="./coding-setup.gif" width="100%" alt="Coding setup animation"/>
 
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhelavansh-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a23&title_color=88ccff&text_color=ffffff&langs_count=10" width="40%" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhelavansh-oss&bg_color=0a0a23&color=88ccff&line=ff6600&point=ffffff&area=true&area_color=1a1a4e&hide_border=true" width="95%" alt="Activity Graph"/>
-
-</div>
-
----
 
 <div align="center">
 
