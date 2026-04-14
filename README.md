@@ -137,7 +137,7 @@ result = moran(values, weights)
 ### 🏥 Epidemiology & Public Health
 - Environmental health determinants of MH/SU
 - Canadian public health datasets (CPADS, CIHI)
-- Correctional health (OTIS, restrictive confinement)
+- Correctional health (OTIS)
 - Substance epidemiology (eBAC, cannabis policy)
 
 </td>
