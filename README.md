@@ -60,8 +60,7 @@
 from esml.fn import ate, moran, luke
 
 # Causal inference
-result = ate(df, treatment="T",
-             outcome="Y")
+result = ate(df, treatment="T", outcome="Y")
 
 # Spatial autocorrelation
 result = moran(values, weights)
@@ -89,10 +88,13 @@ result = moran(values, weights)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 **Scientific Computing & ML**
 
@@ -103,19 +105,28 @@ result = moran(values, weights)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![MLX](https://img.shields.io/badge/MLX-000000?style=flat&logo=apple&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![Textual](https://img.shields.io/badge/Textual-TUI-green?style=flat)
 ![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=flat&logo=sphinx&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![GGUF](https://img.shields.io/badge/GGUF-Model_Format-444444?style=flat)
 
 **Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
 **Statistics & Methods**
 
@@ -124,6 +135,10 @@ result = moran(values, weights)
 ![Psychometrics](https://img.shields.io/badge/Psychometrics-IRT%2FCTT%2FDIF-2a2a5e?style=flat)
 ![Survival](https://img.shields.io/badge/Survival-Cox%2FKM%2FLogRank-3a3a6e?style=flat)
 ![Bayesian](https://img.shields.io/badge/Bayesian-MCMC%2FGibbs-4a4a7e?style=flat)
+![Meta--Analysis](https://img.shields.io/badge/Meta--Analysis-Fixed%2FRandom-5a5a8e?style=flat)
+![Epidemiology](https://img.shields.io/badge/Epidemiology-SIR%2FSEIR%2FR0-6a6a9e?style=flat)
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-FFT%2FHRT%2FEMG-7a7aae?style=flat)
+![Cryptography](https://img.shields.io/badge/Cryptography-ML--KEM%2FLattice-8a8abe?style=flat)
 ![Quantization](https://img.shields.io/badge/TurboQuant-ICLR_2026-ff6600?style=flat)
 
 ---
@@ -141,6 +156,8 @@ result = moran(values, weights)
 - Correctional health (OTIS)
 - Substance epidemiology (eBAC, cannabis policy)
 
+<br/>
+
 </td>
 <td width="50%" valign="top">
 
@@ -149,6 +166,8 @@ result = moran(values, weights)
 - Doubly robust estimation (AIPW, G-computation)
 - Post-quantum cryptography (lattice-based)
 - LLM quantization (TurboQuant, QJL, PolarQuant)
+
+<br/>
 
 </td>
 </tr>
