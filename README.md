@@ -6,6 +6,11 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
+<td width="380" valign="middle">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0OGdvZnF5ZjJhOGI5a2k3ZXZidHJqYWZ0dG14OGNlMDVjcHFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation"/>
+
+</td>
 <td valign="top">
 
 ### 🚀 Building tools that make science reproducible and accessible.
@@ -16,11 +21,6 @@
 - 🧠 **Causal inference, DML, IPW/AIPW, spatial analysis, IRT**
 - 🌎 Based in **Toronto, Canada**
 - ⚡ ML on **Raspberry Pi 5** with TurboQuant
-
-</td>
-<td width="380" valign="middle">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0OGdvZnF5ZjJhOGI5a2k3ZXZidHJqYWZ0dG14OGNlMDVjcHFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation"/>
 
 </td>
 </tr>
