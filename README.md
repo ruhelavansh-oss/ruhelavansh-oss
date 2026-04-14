@@ -31,6 +31,10 @@
 
 </div>
 
+<table>
+<tr>
+<td valign="top">
+
 **[ESML](https://github.com/EpiNodes/esml)** is a terminal-first scientific computing toolkit for epidemiology & statistics.
 
 - 📊 **5,724** individual function files across **218** categories
@@ -40,11 +44,15 @@
 - 📦 41 built-in Canadian public health datasets in SQLite
 - 🧪 **15,212** tests passing, CI green on every push
 
+</td>
+<td valign="top">
+
 ```python
-from esml.fn import ate, moran, dnorm, luke
+from esml.fn import ate, moran, luke
 
 # Causal inference
-result = ate(df, treatment="T", outcome="Y")
+result = ate(df, treatment="T",
+             outcome="Y")
 
 # Spatial autocorrelation
 result = moran(values, weights)
@@ -58,6 +66,10 @@ result = moran(values, weights)
 [![Explore ESML](https://img.shields.io/badge/Explore_ESML-0a0a23?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EpiNodes/esml)
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -109,17 +121,28 @@ result = moran(values, weights)
 
 ## 📜 Research Interests
 
+<table>
+<tr>
+<td valign="top">
+
 ### 🏥 Epidemiology & Public Health
 - Environmental health determinants of MH/SU
 - Canadian public health datasets (CPADS, CIHI)
 - Correctional health (OTIS, restrictive confinement)
 - Substance use epidemiology (eBAC, cannabis policy)
 
+</td>
+<td valign="top">
+
 ### 📐 Methods & Theory
 - Semiparametric causal inference (DML, TMLE)
 - Doubly robust estimation (AIPW, G-computation)
 - Post-quantum cryptography (lattice-based)
 - LLM quantization (TurboQuant, QJL, PolarQuant)
+
+</td>
+</tr>
+</table>
 
 ---
 
