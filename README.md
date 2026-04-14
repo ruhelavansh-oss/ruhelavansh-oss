@@ -123,7 +123,7 @@ result = moran(values, weights)
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🏥 Epidemiology & Public Health
 - Environmental health determinants of MH/SU
@@ -132,7 +132,7 @@ result = moran(values, weights)
 - Substance use epidemiology (eBAC, cannabis policy)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 📐 Methods & Theory
 - Semiparametric causal inference (DML, TMLE)
