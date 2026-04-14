@@ -83,6 +83,8 @@ result = moran(values, weights)
 
 ## 🛠️ Technical Skills
 
+<div align="center">
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -140,6 +142,8 @@ result = moran(values, weights)
 ![Signal Processing](https://img.shields.io/badge/Signal_Processing-FFT%2FHRT%2FEMG-7a7aae?style=flat)
 ![Cryptography](https://img.shields.io/badge/Cryptography-ML--KEM%2FLattice-8a8abe?style=flat)
 ![Quantization](https://img.shields.io/badge/TurboQuant-ICLR_2026-ff6600?style=flat)
+
+</div>
 
 ---
 
