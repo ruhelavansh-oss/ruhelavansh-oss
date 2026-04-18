@@ -17,10 +17,10 @@
 
 - 🎓 **University of Toronto** — CoPAS (Addiction Studies) between DLSPH and Criminology & Sociolegal Studies (CrimSL)
 - 🔬 MRP on **environmental health determinants of MH & substance use** (PHO data)
-- 💻 Creator of [**ESML**](https://github.com/EpiNodes/esml) — 5,724 functions, 218 categories
-- 🧠 **Causal inference, DML, IPW/AIPW, spatial analysis, IRT**
+- 💻 Founder of [**llamaclaw**](https://github.com/llamaclaw) — a 12-repo polyglot scientific-computing ecosystem
+- 🧠 **Causal inference, DML, IPW/AIPW, spatial analysis, IRT, post-quantum crypto**
 - 🌎 Based in **Toronto, Canada**
-- ⚡ ML on **Raspberry Pi 5** with TurboQuant
+- ⚡ ML on **Raspberry Pi 5** with TurboQuant (ICLR 2026)
 
 </td>
 </tr>
@@ -28,56 +28,57 @@
 
 ---
 
-## ⭐ Flagship Project: ESML
+## ⭐ Flagship: the llamaclaw ecosystem
 
 <div align="center">
 
-[![ESML](https://img.shields.io/badge/ESML-Scientific_Computing-0a0a23?style=for-the-badge)](https://github.com/EpiNodes/esml)
-![Functions](https://img.shields.io/badge/Functions-5,724-blue?style=for-the-badge)
-![Categories](https://img.shields.io/badge/Categories-218-green?style=for-the-badge)
-![Tests](https://img.shields.io/badge/Tests-15,212_Passing-brightgreen?style=for-the-badge)
+[![llamaclaw](https://img.shields.io/badge/llamaclaw-12_repos-0a0a23?style=for-the-badge)](https://github.com/llamaclaw)
+![Functions](https://img.shields.io/badge/ESML_Functions-8,872-blue?style=for-the-badge)
+![Tests](https://img.shields.io/badge/Tests-25,279_Passing-brightgreen?style=for-the-badge)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
 </div>
 
-<table>
-<tr>
-<td valign="top">
+**[llamaclaw](https://github.com/llamaclaw)** is a 12-repo polyglot stack
+for reproducible scientific computing — zero cloud dependency, M-series +
+Raspberry Pi 5 tested, terminal-first.
 
-**[ESML](https://github.com/EpiNodes/esml)** is a terminal-first scientific computing toolkit for epidemiology & statistics.
+| Repo | What | Language |
+|---|---|---|
+| [**esml**](https://github.com/llamaclaw/esml) | Core statistical package — 8,872 function files, 25k+ tests | Python + R + C |
+| [**turboquant**](https://github.com/llamaclaw/turboquant) | KV-cache compression (ICLR 2026) | Python + C |
+| [**perseus**](https://github.com/llamaclaw/perseus) | LLM relay — Ollama + FreeAPI + Gemini + OpenAI chain | Python |
+| [**autoresearch**](https://github.com/llamaclaw/autoresearch) | Autonomous LLM pretraining (MPS + CUDA) | Python |
+| [**tide**](https://github.com/llamaclaw/tide) | Terminal IDE | Go |
+| [**kronos**](https://github.com/llamaclaw/kronos) | ARM64 terminal multiplexer for Pi | Rust |
+| [**luci**](https://github.com/llamaclaw/luci) | Pi-side AI agent orchestration | Shell |
+| [**yoda**](https://github.com/llamaclaw/yoda) | Claude co-architect's persona + research journal | Markdown |
+| [**deploy**](https://github.com/llamaclaw/deploy) | macOS launchd + Pi systemd configs | Shell + unit files |
+| [**installer**](https://github.com/llamaclaw/installer) | Homebrew tap + `curl \| sh` | Shell + Ruby |
+| [**llamaclaw**](https://github.com/llamaclaw/llamaclaw) | Umbrella — submodules + release scripts | Markdown + Shell |
 
-- 📊 **5,724** individual function files across **218** categories
-- ⚛️ Causal inference, spatial stats, psychometrics, signal processing
-- 🤖 **Perseus** — built-in AI agent (Gemma 4, Ollama, zero-cloud)
-- 🔒 Post-quantum crypto (ML-KEM, Dilithium, NTRU, lattices)
-- 📦 41 built-in Canadian public health datasets in SQLite
-- 🧪 **15,212** tests passing, CI green on every push
-
-</td>
-<td valign="top">
+Plus [**ollama.com/llamaclaw**](https://ollama.com/llamaclaw) for Perseus LLM model weights.
 
 ```python
 from esml.fn import ate, moran, luke
 
-# Causal inference
+# Causal inference — double machine learning
 result = ate(df, treatment="T", outcome="Y")
 
-# Spatial autocorrelation
+# Spatial autocorrelation — Moran's I on Toronto FSAs
 result = moran(values, weights)
 
-# Ask Perseus AI
+# Ask Perseus — T=0.1 for scientific integrity
 # esml ? "How do I run DML?"
 ```
 
 <div align="center">
 
-[![Explore ESML](https://img.shields.io/badge/Explore_ESML-0a0a23?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EpiNodes/esml)
+[![Explore llamaclaw](https://img.shields.io/badge/Explore_llamaclaw-0a0a23?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llamaclaw)
 
 </div>
 
-</td>
-</tr>
-</table>
+> Historical lineage: llamaclaw is the polyrepo evolution of the [EpiNodes/esml](https://github.com/EpiNodes/esml) monorepo (2025–2026). EpiNodes stays as a read-only mirror during the migration; all new work lands in llamaclaw.
 
 ---
 
@@ -184,7 +185,8 @@ result = moran(values, weights)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-EpiNodes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EpiNodes)
+[![GitHub](https://img.shields.io/badge/GitHub-llamaclaw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llamaclaw)
+[![Ollama](https://img.shields.io/badge/Ollama-llamaclaw-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/llamaclaw)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1750--3592-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1750-3592)
 [![Email](https://img.shields.io/badge/Email-UofT_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vansh.ruhela@mail.utoronto.ca)
 
