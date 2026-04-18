@@ -55,6 +55,7 @@ Raspberry Pi 5 tested, terminal-first.
 | [**yoda**](https://github.com/llamaclaw/yoda) | Claude co-architect's persona + research journal | Markdown |
 | [**deploy**](https://github.com/llamaclaw/deploy) | macOS launchd + Pi systemd configs | Shell + unit files |
 | [**installer**](https://github.com/llamaclaw/installer) | Homebrew tap + `curl \| sh` | Shell + Ruby |
+| [**intersphinx**](https://github.com/llamaclaw/intersphinx) | Ecosystem documentation site | Sphinx + Markdown |
 | [**llamaclaw**](https://github.com/llamaclaw/llamaclaw) | Umbrella — submodules + release scripts | Markdown + Shell |
 
 Plus [**ollama.com/llamaclaw**](https://ollama.com/llamaclaw) for Perseus LLM model weights.
